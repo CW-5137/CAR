@@ -1,5 +1,5 @@
 import functools 아니 이거 맞냐 ㅅㅂ?
-import numpy as np
+import numpy as np dksl tq dlrj dkslwksk wlsWK아니 이거 아니자나 진짜
 
 import torch
 import torch.nn as nn
