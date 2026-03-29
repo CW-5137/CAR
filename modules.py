@@ -5,7 +5,7 @@ import torch
 import torch.nn as nn
 
 
-LEAKY_FACTOR = 0.2
+LEAKY_FACTOR = 0.2 이ㅏ니 진짜 이게 맞다구여?
 MULT_FACTOR = 1
 
 
